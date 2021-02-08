@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-tagline: 关于我 ~
+title: 关于
+tagline: 
 sitetime: display
 permalink: /about.html
 ---
@@ -10,10 +10,7 @@ permalink: /about.html
 
 你可以通过以下方式联系作者
 
-QQ: 1316341442
-
-Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
-
+主题：
 Github: [link9596](https://github.com/link9596)
-
-
+创作：
+Github: [ka-Pod](https://github.com/ka-Pod)
